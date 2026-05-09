@@ -20,8 +20,6 @@ This repository contains the official implementation of **TLRI** (Transfer Learn
 
 The TLRI model fuses local structural motifs extracted by a GNN with macro-physicochemical descriptors. This hybrid representation is then processed through a Multi-Layer Perceptron (MLP) to output the final RI value.
 
-![Architecture](https://github.com/Qiong-Yang0613/TLRI/figure/ModelArchitecture.png) 
-*(Note: Please upload Figure 1 from your paper to the repo and update this link)*
 
 ## 📂 Repository Structure
 
